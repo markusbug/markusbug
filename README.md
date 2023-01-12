@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @markusbug
+- 👀 I’m interested in web3 mobile
+- 🌱 I’m currently working on [ethOS](https://www.ethosmobile.org/)
+- 📫 How to reach me: Dm me on my [twitter](https://twitter.com/mhaas_eth) or on [farcaster](https://fcast.me/markus)
